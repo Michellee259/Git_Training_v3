@@ -1,3 +1,5 @@
 Test File for Sample Code
 
+This is connection test...................
+
 Sample code for training only!
